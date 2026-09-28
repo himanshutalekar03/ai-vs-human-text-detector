@@ -13,7 +13,6 @@ It uses text preprocessing, TF-IDF vectorization, and trained ML models (Logisti
 * Python
 * Pandas, NumPy
 * Scikit-learn
-* NLTK, SpaCy
 * Flask
 * HTML, CSS
 
